@@ -1,0 +1,8 @@
+*.err
+*.o
+*.mptags
+*.tagsrc
+*.hex
+*.lst
+*.cof
+*.map
